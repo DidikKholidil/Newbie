@@ -1,4 +1,4 @@
 
 print('Halo Dunia !')
 print('Belajar AI !')
-print('Ini do Cabang-1 !')
+print('Ini di Cabang-1 !')
